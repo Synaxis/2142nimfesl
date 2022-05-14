@@ -1,0 +1,4 @@
+ID ICON "asset/bf2142unlocker.ico"
+
+#include <windows.h>
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "BF2142Unlocker.manifest"

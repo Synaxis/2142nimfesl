@@ -1,0 +1,413 @@
+# Don't remove the two lines below, they're required for gettext to work correctly.
+msgid ""
+msgstr ""
+
+
+###### Quick
+msgid "QUICK_IP_ADDRESS"
+msgstr ""
+msgid "QUICK_IP_ADDRESS_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_AUTO_JOIN_SERVER"
+msgstr ""
+msgid "QUICK_AUTO_JOIN_SERVER_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_CONNECT"
+msgstr ""
+msgid "QUICK_CONNECT_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_MODS"
+msgstr ""
+msgid "QUICK_MODS_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_PLAYER_NAME"
+msgstr ""
+msgid "QUICK_PLAYER_NAME_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_SETTINGS"
+msgstr ""
+
+msgid "QUICK_CONNECT_FRAME_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_SETTINGS_FRAME_TOOLTIP"
+msgstr ""
+
+msgid "CHECK_CAN_NOT_CONNECT"
+msgstr ""
+
+msgid "CHECK_LOGIN_SERVER"
+msgstr ""
+
+msgid "CHECK_GPCM_SERVER"
+msgstr ""
+
+msgid "CHECK_UNLOCK_SERVER"
+msgstr ""
+
+msgid "CHECK_CANCEL"
+msgstr ""
+
+msgid "QUICK_HOST"
+msgstr ""
+
+msgid "QUICK_HOST_CANCEL"
+msgstr ""
+
+msgid "QUICK_HOST_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_HOST_CANCEL_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_SINGLEPLAYER"
+msgstr ""
+
+msgid "QUICK_SINGLEPLAYER_CANCEL"
+msgstr ""
+
+msgid "QUICK_SINGLEPLAYER_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_SINGLEPLAYER_CANCEL_TOOLTIP"
+msgstr ""
+
+msgid "QUICK_TERMINAL"
+msgstr ""
+###
+
+
+###### Multiplayer
+msgid "TAB_MULTIPLAYER"
+msgstr ""
+
+msgid "MULTIPLAYER_SERVERS_TOOLTIP"
+msgstr ""
+
+msgid "MULTIPLAYER_SERVERS_REFRESH_TOOLTIP"
+msgstr ""
+
+msgid "MULTIPLAYER_SERVERS_PLAY_TOOLTIP"
+msgstr ""
+
+msgid "MULTIPLAYER_PLAYERS_TOOLTIP"
+msgstr ""
+
+msgid "MULTIPLAYER_PLAYERS_REFRESH_TOOLTIP"
+msgstr ""
+
+msgid "LOGIN_STELLA_NAME"
+msgstr ""
+
+msgid "LOGIN_GAME_SERVER_NAME"
+msgstr ""
+
+msgid "LOGIN_USERNAME"
+msgstr ""
+
+msgid "LOGIN_PASSWORD"
+msgstr ""
+
+msgid "LOGIN_SOLDIER"
+msgstr ""
+
+msgid "LOGIN_SAVE"
+msgstr ""
+
+msgid "LOGIN_ERROR"
+msgstr ""
+
+msgid "LOGIN_ERROR_CODE"
+msgstr ""
+
+msgid "LOGIN_ERROR_TXN"
+msgstr ""
+
+msgid "LOGIN_ERROR_MSG"
+msgstr ""
+
+msgid "LOGIN_CHECK"
+msgstr ""
+
+msgid "LOGIN_CREATE"
+msgstr ""
+
+msgid "LOGIN_PLAY"
+msgstr ""
+
+msgid "LOGIN_CANCEL"
+msgstr ""
+
+msgid "LOGIN_ADD_SOLDIER_NAME"
+msgstr ""
+
+msgid "LOGIN_ADD_SOLDIER_OK"
+msgstr ""
+
+msgid "LOGIN_ADD_SOLDIER_CANCEL"
+msgstr ""
+
+msgid "LOGIN_MOD_MISSING_TITLE"
+msgstr ""
+
+msgid "LOGIN_MOD_MISSING_MSG"
+msgstr ""
+
+msgid "LOGIN_MOD_MISSING_LINK"
+msgstr ""
+
+msgid "LOGIN_MOD_MISSING_OK"
+msgstr ""
+
+msgid "LOGIN_MAP_MISSING_TITLE"
+msgstr ""
+
+msgid "LOGIN_MAP_MISSING_MSG"
+msgstr ""
+
+msgid "LOGIN_MAP_MISSING_OK"
+msgstr ""
+
+msgid "MULTIPLAYER_PATCH_AND_START"
+msgstr ""
+###
+
+
+###### Host
+msgid "HOST_SETTINGS"
+msgstr ""
+
+msgid "HOST_MODS"
+msgstr ""
+msgid "HOST_MODS_TOOLTIP"
+msgstr ""
+
+msgid "HOST_GAME_MODE"
+msgstr ""
+msgid "HOST_GAME_MODE_TOOLTIP"
+msgstr ""
+
+msgid "HOST_BOT_SKILL"
+msgstr ""
+msgid "HOST_BOT_SKILL_TOOLTIP"
+msgstr ""
+
+msgid "HOST_TICKET_RATIO"
+msgstr ""
+msgid "HOST_TICKET_RATIO_TOOLTIP"
+msgstr ""
+
+msgid "HOST_SPAWN_TIME"
+msgstr ""
+msgid "HOST_SPAWN_TIME_TOOLTIP"
+msgstr ""
+
+msgid "HOST_ROUNDS_PER_MAP"
+msgstr ""
+msgid "HOST_ROUNDS_PER_MAP_TOOLTIP"
+msgstr ""
+
+msgid "HOST_BOT_AMOUNT"
+msgstr ""
+msgid "HOST_BOT_AMOUNT_TOOLTIP"
+msgstr ""
+
+msgid "HOST_MAX_PLAYERS"
+msgstr ""
+msgid "HOST_MAX_PLAYERS_TOOLTIP"
+msgstr ""
+
+msgid "HOST_PLAYERS_NEEDED_TO_START"
+msgstr ""
+msgid "HOST_PLAYERS_NEEDED_TO_START_TOOLTIP"
+msgstr ""
+
+msgid "HOST_FRIENDLY_FIRE"
+msgstr ""
+msgid "HOST_FRIENDLY_FIRE_TOOLTIP"
+msgstr ""
+
+msgid "HOST_ALLOW_NOSE_CAM"
+msgstr ""
+msgid "HOST_ALLOW_NOSE_CAM_TOOLTIP"
+msgstr ""
+
+msgid "HOST_SERVER_IP_ADDRESS"
+msgstr ""
+msgid "HOST_SERVER_IP_ADDRESS_TOOLTIP"
+msgstr ""
+
+msgid "HOST_MAPS"
+msgstr ""
+msgid "HOST_SELECTABLE_MAPS_TOOLTIP"
+msgstr ""
+msgid "HOST_SELECTED_MAPS_TOOLTIP"
+msgstr ""
+msgid "HOST_MAPS_ADD_TOOLTIP"
+msgstr ""
+msgid "HOST_MAPS_REMOVE_TOOLTIP"
+msgstr ""
+msgid "HOST_MAPS_MOVE_UP_TOOLTIP"
+msgstr ""
+msgid "HOST_MAPS_MOVE_DOWN_TOOLTIP"
+msgstr ""
+
+msgid "HOST_TERMINALS"
+msgstr ""
+
+msgid "HOST_HOST"
+msgstr ""
+msgid "HOST_HOST_TOOLTIP"
+msgstr ""
+
+msgid "HOST_CANCEL"
+msgstr ""
+msgid "HOST_CANCEL_TOOLTIP"
+msgstr ""
+###
+
+###### Unlocks
+msgid "UNLOCKS_SQUAD_GADGETS"
+msgstr ""
+msgid "UNLOCKS_SQUAD_GADGETS_INFO"
+msgstr ""
+###
+
+###### Settings
+msgid "SETTINGS_BF2142_GAME_PATH"
+msgstr ""
+msgid "SETTINGS_BF2142_GAME_PATH_TOOLTIP"
+msgstr ""
+
+msgid "SETTINGS_BF2142_SERVER_PATH"
+msgstr ""
+msgid "SETTINGS_BF2142_SERVER_PATH_TOOLTIP"
+msgstr ""
+
+msgid "SETTINGS_WINEPREFIX"
+msgstr ""
+msgid "SETTINGS_WINEPREFIX_TOOLTIP"
+msgstr ""
+
+msgid "SETTINGS_STARTUP_QUERY"
+msgstr ""
+
+msgid "SETTINGS_COPY_MAPS_CLIENT"
+msgstr ""
+
+msgid "SETTINGS_COPY_MAPS_SERVER"
+msgstr ""
+
+msgid "SETTINGS_SELECT"
+msgstr ""
+
+msgid "SETTINGS_SKIP_MOVIES"
+msgstr ""
+msgid "SETTINGS_SKIP_MOVIES_TOOLTIP"
+msgstr ""
+
+msgid "SETTINGS_WINDOW_MODE"
+msgstr ""
+msgid "SETTINGS_WINDOW_MODE_TOOLTIP"
+msgstr ""
+
+msgid "SETTINGS_RESOLUTION"
+msgstr ""
+msgid "SETTINGS_RESOLUTION_TOOLTIP"
+msgstr ""
+
+msgid "SETTINGS_BF2142_CLIENT_PATH_DETECTED_TITLE"
+msgstr ""
+
+msgid "SETTINGS_BF2142_CLIENT_PATH_DETECTED_MSG"
+msgstr ""
+
+msgid "SETTINGS_BF2142_CLIENT_PATH_DETECTED_OK"
+msgstr ""
+
+msgid "SETTINGS_BF2142_CLIENT_PATH_DETECTED_SELECT"
+msgstr ""
+
+###
+
+
+###### Tabs
+msgid "TAB_QUICK"
+msgstr ""
+msgid "TAB_QUICK_TOOLTIP"
+msgstr ""
+
+msgid "TAB_HOST"
+msgstr ""
+msgid "TAB_HOST_TOOLTIP"
+msgstr ""
+
+msgid "TAB_UNLOCKS"
+msgstr ""
+msgid "TAB_UNLOCKS_TOOLTIP"
+msgstr ""
+
+msgid "TAB_SETTINGS"
+msgstr ""
+msgid "TAB_SETTINGS_TOOLTIP"
+msgstr ""
+###
+
+###### Statusbar
+msgid "VERSION_TOOLTIP"
+msgstr ""
+
+msgid "UNLOCKER_GITHUB"
+msgstr ""
+msgid "UNLOCKER_GITHUB_TOOLTIP"
+msgstr ""
+
+msgid "UNLOCKER_MODDB"
+msgstr ""
+msgid "UNLOCKER_MODDB_TOOLTIP"
+msgstr ""
+
+msgid "PROJECT_REMASTER_MODDB"
+msgstr ""
+msgid "PROJECT_REMASTER_MODDB_TOOLTIP"
+msgstr ""
+
+msgid "FIRST_STRIKE_MODDB"
+msgstr ""
+msgid "FIRST_STRIKE_MODDB_TOOLTIP"
+msgstr ""
+###
+
+### Other
+msgid "GAMESERVER_CRASHED"
+msgstr ""
+
+msgid "NO_WRITE_PERMISSION_TITLE"
+msgstr ""
+
+msgid "NO_WRITE_PERMISSION_MSG"
+msgstr ""
+
+msgid "COULD_NOT_FIND_TITLE"
+msgstr ""
+
+msgid "COULD_NOT_FIND_MSG"
+msgstr ""
+
+msgid "NO_PRIVATE_IP_ADDRESS_TITLE"
+msgstr ""
+
+msgid "NO_PRIVATE_IP_ADDRESS_MSG"
+msgstr ""
+
+msgid "NO_VALID_IP_ADDRESS_TITLE"
+msgstr ""
+
+msgid "NO_VALID_IP_ADDRESS_MSG"
+msgstr ""
+###
